@@ -2,7 +2,7 @@ CXX = g++
 
 CXXFLAGS = -std=c++11 -Wall -Wextra
 
-SRCS = permutation.cpp
+SRCS = permutations.cpp
 
 OBJS = $(SRCS:.cpp=.o)
 
